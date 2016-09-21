@@ -1,0 +1,48 @@
+.navbar {
+	background-color: #DA3038;
+	margin-bottom: 0;
+	padding: 0 5%;
+	border: 0;
+	border-radius: 0;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+	color: #F4F0A6;
+}
+.titulo {
+	font-family: "Merriweather", "Serif";
+}
+/*BACKGROUNDS*/
+/*Background Creamy Theme*/
+.fondo-home {
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #F4F0A6;
+}
+.opacidad {
+	background-color: rgba(0,0,0,0.5);
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+	padding: 12%;
+	box-sizing: border-box;
+}
+/*Background Oh! So Creamy*/
+.fondo-creamy {
+	background-color: #F4F0A6;
+	color: #DA3038;
+	padding: 3%;
+}
+/*Background About Creamy*/
+.fondo-about-creamy {
+	background-color: #DA3038;
+	color: #F4F0A6;
+	padding: 3%;
+}
+.fondo-footer {
+	background-color: #DA3038;
+	color: #F4F0A6;
+	padding: 1% 5%;
+}
+
+
